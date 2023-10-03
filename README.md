@@ -13,10 +13,8 @@ and have been part of the program at Ropecon in also at least
   interesting material for a fantasy setting by selectively applying constraints of the world itself,
   speech science -- especially articulation, because this is me -- and needs of the story, and was delivered as workshop.
 - Combined slides are [here (pdf)](https://github.com/giuthas-talks/Ropecon2022/blob/main/borrowing_a_language.pdf).
-
-Both programs were advertised as English and Finnish versions at separate times during the convention. Slides were only in English, 
-but I translated them in to Finnish the following year for 
-[Ropecon 2023](https://github.com/giuthas-talks/Ropecon2023).
+  Both programs were advertised as English and Finnish versions at separate times during the convention. Slides were only in English,
+  but I translated them in to Finnish the following year for [Ropecon 2023](https://github.com/giuthas-talks/Ropecon2023).
 
 See also 
 [Land acknowledgement](https://github.com/giuthas-talks/Ropecon2022/blob/main/IU%20LAS%20Native%20Language.pdf) 
