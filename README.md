@@ -1,6 +1,6 @@
 # Borrowing a Language 101 and Ideas for Fantastic ((un)real) Speech
 
-Two talks I gave at Ropecon in Helsinki in summer of 2022. These have evolved 
+Two talks and two workshops workshop I gave at Ropecon in Helsinki in summer of 2022. These evolved 
 from two talks at [Indiana Comicon 2022 (slides in English)](https://github.com/giuthas-talks/Comicon2022) 
 and have been part of the program at Ropecon in also at least 
 [2023 (slides in Finnish)](https://github.com/giuthas-talks/Ropecon2023):
